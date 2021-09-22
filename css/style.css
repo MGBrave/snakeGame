@@ -1,0 +1,41 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image:url(../img/bg.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+  
+}
+footer{ 
+    width: 100vw;
+    height: 50px;
+}
+
+footer img{
+    
+    bottom: 15px;
+   position: relative;
+    z-index: -3;
+}
+h1{
+    
+    background: #ffffff;
+    padding: 5px 30px 5px 30px;
+    font-size: 28px;
+    border-radius: 10px;
+    border: 5px solid #05fc0d;
+    
+   
+}
+canvas{
+    border: 10px solid #05fc0d;
+   
+}
